@@ -44,4 +44,7 @@ Ketika kedua tugas berjalan bersamaan:
 
 ### Demo
 
-![Tangkapan Layar](link_ke_gambar.png)
+
+
+https://github.com/user-attachments/assets/ccd7f922-e0e1-4c19-a518-aed9eaa8727f
+
